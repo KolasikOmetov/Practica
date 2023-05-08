@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ListComparison.exe
+C:\Users\PC\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ListComparison.deps.json
+C:\Users\PC\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ListComparison.runtimeconfig.json
+C:\Users\PC\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ListComparison.runtimeconfig.dev.json
+C:\Users\PC\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ListComparison.dll
+C:\Users\PC\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ListComparison.pdb
+C:\Users\PC\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ListComparison.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ListComparison.AssemblyInfo.cs
+C:\Users\PC\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ListComparison.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ListComparison.dll
+C:\Users\PC\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ListComparison.pdb
+C:\Users\PC\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ListComparison.genruntimeconfig.cache
